@@ -1,0 +1,1 @@
+# here I wnnt to investigate A/B tetsts mechanisms and how to implement them in python
